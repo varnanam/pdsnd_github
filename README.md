@@ -7,7 +7,7 @@
 Python for Data Science 
 
 ### Description
-Describe what your project is about and what it does
+Data science project
 
 ### Files used
 Bikeshare.py
